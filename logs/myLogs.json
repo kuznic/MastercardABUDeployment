@@ -1,0 +1,10 @@
+[
+{"instant":{"epochSecond":1623180078,"nanoOfSecond":634000000},"thread":"main","level":"INFO","loggerName":"postilion.realtime.mastercardabu.AbuMain","message":"START OF THE PROGRAM","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"source":{"class":"postilion.realtime.mastercardabu.AbuMain","method":"main","file":"AbuMain.java","line":11}}
+
+]
+{"instant":{"epochSecond":1623180118,"nanoOfSecond":584000000},"thread":"main","level":"INFO","loggerName":"postilion.realtime.mastercardabu.AbuMain","message":"START OF THE PROGRAM","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"source":{"class":"postilion.realtime.mastercardabu.AbuMain","method":"main","file":"AbuMain.java","line":11}}
+
+]
+{"instant":{"epochSecond":1623180144,"nanoOfSecond":476000000},"thread":"main","level":"INFO","loggerName":"postilion.realtime.mastercardabu.AbuMain","message":"START OF THE PROGRAM","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"source":{"class":"postilion.realtime.mastercardabu.AbuMain","method":"main","file":"AbuMain.java","line":11}}
+
+]

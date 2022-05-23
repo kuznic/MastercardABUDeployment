@@ -1,0 +1,48 @@
+{
+  "groups": [
+    {
+      "name": "abu.deploy",
+      "type": "postilion.realtime.mastercardabu.config.AbuConfig",
+      "sourceType": "postilion.realtime.mastercardabu.config.AbuConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "abu.deploy.abu-solution-zipped-file-path",
+      "type": "java.lang.String",
+      "sourceType": "postilion.realtime.mastercardabu.config.AbuConfig"
+    },
+    {
+      "name": "abu.deploy.db-encrypted",
+      "type": "java.lang.Boolean",
+      "sourceType": "postilion.realtime.mastercardabu.config.AbuConfig",
+      "defaultValue": false
+    },
+    {
+      "name": "abu.deploy.deploy-folder",
+      "type": "java.lang.String",
+      "sourceType": "postilion.realtime.mastercardabu.config.AbuConfig"
+    },
+    {
+      "name": "abu.deploy.ica-bins",
+      "type": "java.lang.String",
+      "sourceType": "postilion.realtime.mastercardabu.config.AbuConfig"
+    },
+    {
+      "name": "abu.deploy.password",
+      "type": "java.lang.String",
+      "sourceType": "postilion.realtime.mastercardabu.config.AbuConfig"
+    },
+    {
+      "name": "abu.deploy.url",
+      "type": "java.lang.String",
+      "sourceType": "postilion.realtime.mastercardabu.config.AbuConfig"
+    },
+    {
+      "name": "abu.deploy.user-name",
+      "type": "java.lang.String",
+      "sourceType": "postilion.realtime.mastercardabu.config.AbuConfig"
+    }
+  ],
+  "hints": []
+}
